@@ -8,11 +8,11 @@ Calculator can be used by simply executing binary in ***Executable Jar folder***
 
 ## Features ##
 
-1.GUI developed using java swing
+1. GUI developed using java swing
 
-2.Basic and easy to use
+2. Basic and easy to use
 
-3.Mouse based Calculator
+3. Mouse based Calculator
 
 Contributer
 -----------
